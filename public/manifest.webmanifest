@@ -1,0 +1,12 @@
+{
+  "name": "Rumah Belajar Calistung",
+  "short_name": "Rumah Belajar",
+  "description": "Teman belajar membaca, menulis, dan berhitung untuk SD kelas 1-5.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": []
+}
